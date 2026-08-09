@@ -27,6 +27,9 @@ You can access it—okay!
 :chart_with_upwards_trend: and I intend to launch myself into this new career in **programming.**
 <br>
 :hearts: I am fulfilling a childhood dream.
+<br>
+<br>
+....I'll have more news and projects soon. :wave:
 
 
 
