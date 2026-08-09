@@ -9,6 +9,10 @@ and I am looking for a fresh start in the field I am studying and intend to work
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <br>
 
+:chart_with_upwards_trend: Once I finish HTML and CSS, I'll move on to **JavaScript**, learning more and more each day.
+<br>
+<br>
+
 **Connect to my social network:** :arrow_heading_down:
 <br>
 <br>
