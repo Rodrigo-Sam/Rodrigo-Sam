@@ -11,7 +11,8 @@ I'm Rodrigo Sampaio, a front-end programmer, currently learning and creating pro
 #### 🚀 My Projects
 
 - **Easy Shopping** - Responsive project learned at DevClub
-- **Number Picker** - [Live here](https://rodrigo-sam.github.io/sorteador-de-numeros/) - Família FC Bauru
+- **Number Picker** - [Live here](https://rodrigo-sam.github.io/sorteador-de-numeros/)
+- **Store Project** - [Live here](https://rodrigo-sam.github.io/store-project/) - Modern Apple products showcase with carousel
 
 #### 🌱 Currently learning
 - JavaScript
