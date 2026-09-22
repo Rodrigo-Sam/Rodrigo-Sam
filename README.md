@@ -13,6 +13,8 @@ I'm Rodrigo Sampaio, a front-end programmer, currently learning and creating pro
 - **Easy Shopping** - Responsive project learned at DevClub
 - **Number Picker** - [Live here](https://rodrigo-sam.github.io/sorteador-de-numeros/)
 - **Store Project** - [Live here](https://rodrigo-sam.github.io/store-project/) - Modern Apple products showcase with carousel
+- **Quiz for Devs** - [Live here](https://rodrigo-sam.github.io/quiz-interativo-programador/) - Interactive quiz for programmers with 7 different input types
+
 
 #### 🌱 Currently learning
 - JavaScript
