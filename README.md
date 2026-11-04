@@ -38,6 +38,6 @@ Once I finish HTML/CSS advanced, I'm going all-in on JavaScript.
 
 **Let's connect:** 
 <a href="https://www.instagram.com/rodriigoo.sam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rodrigo-sampaio-399106441/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Sam&layout=compact&theme=tokyonight)
